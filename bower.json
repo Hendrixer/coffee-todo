@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "description": "todo in backbone",
+  "main": "index.html",
+  "authors": [
+    "scott moss"
+  ],
+  "license": "MIT",
+  "homepage": "http://closurelog.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "underscore": "~1.5.2",
+    "jquery": "~2.0.3"
+  }
+}
