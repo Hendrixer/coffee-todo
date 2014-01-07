@@ -4,4 +4,4 @@ class window.Todo extends Backbone.Model
     done: false
 
   completed: ->
-    @defaults.done = true
+    @done = true
